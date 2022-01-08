@@ -7,10 +7,11 @@ Hello, I'm Akshay Rathi</h1>
 
 Beside coding, I likes to play video games.</p>
 
-<h2>Skill Set</h2>
+## Skill Set
+
 <hr/>
 
-#### Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;&nbsp;
@@ -18,13 +19,13 @@ Beside coding, I likes to play video games.</p>
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)&nbsp;&nbsp;
 
-#### Backend
+### Backend
 
 ![ExpressJs](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=f2f2f2)&nbsp;&nbsp;
 ![NodeJs](https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 ![NestJs](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;&nbsp;
 
-#### Others
+### Others
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
