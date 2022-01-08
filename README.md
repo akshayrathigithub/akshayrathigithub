@@ -9,8 +9,6 @@ Beside coding, I likes to play video games.</p>
 
 ## Skill Set
 
-<hr/>
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;&nbsp;
@@ -33,8 +31,6 @@ Beside coding, I likes to play video games.</p>
 ![NGINX](https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=nginx&logoColor=white)
 
 ## Get in touch
-
-<hr/>
 
 <p><a href="https://akshayrathi.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%234285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/akshay-rathi-sde/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/akshayrathigithub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Github-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p><br/>
