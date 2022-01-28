@@ -5,7 +5,7 @@ Hello, I'm Akshay Rathi</h1>
 </p>
 <p>I have a strong background in Javascript and FrontEnd Development, have worked on a wide range of projects. A quick learner, I am always looking to learn new technologies and improve my skills.
 
-Beside coding, I likes to play video games.</p>
+Beside coding, I likes to do gaming.</p>
 
 ## Skill Set
 
